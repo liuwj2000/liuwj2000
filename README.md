@@ -3,14 +3,12 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <h1>Liu Shuai (刘帅)</h1>
+      <p><b>Nanyang Technological University, SCSE Phd candidate</b></p>
+      <p><b>Email：Shuai004@e.ntu.edu.sg</b></p>
     </td>
     <td width="25%">
-      <img src="/mmexport1594121939607.jpg" width="100%">      % 插入证件照代码
+      <img src="/mmexport1594121939607.jpg" width="100%">      
     </td>
   </tr>
 </table>
