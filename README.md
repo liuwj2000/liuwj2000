@@ -35,7 +35,7 @@ Baidu, BIL, research assitant     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 
 4, Outstanding student leader of PKU, 2018
 
-5, 1st prize, The 1st Data Analysis Knowledge Contest for Chinese Univeristy Students, 2022
+5, 1st prize,  Data Analysis Knowledge Contest for Chinese Univeristy Students, 2022
 
 6, 1st prize, Natural Disaster Competition for Chinese students, 2022
 
