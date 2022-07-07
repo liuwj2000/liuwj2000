@@ -26,4 +26,11 @@ Baidu, BIL, research assitant     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 ## Publication
 1,Real-time Transportation Prediction Correction using Reconstruction Error in Deep Learning, **Shuai Liu**，Guojie Song，Wenhao Huang, 2020 TKDD
 
+## Awards
+1, 1st prize, Humanity, social & science innovation paper competition in the teen-group of Shanghai, 2016
+2, Outstanding student of the junior league school in PKU, 2017
+3, Outstanding student leader of EECS, PKU, 2018
+4, Outstanding student leader of PKU, 2018
+5, 1st prize, The 1st Data Analysis Knowledge Contest for Chinese Univeristy Students, 2022
+
 
