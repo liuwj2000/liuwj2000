@@ -37,4 +37,6 @@ Baidu, BIL, research assitant     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 
 5, 1st prize, The 1st Data Analysis Knowledge Contest for Chinese Univeristy Students, 2022
 
+6, 1st prize, Natural Disaster Competition for Chinese students, 2022
+
 
