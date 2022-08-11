@@ -39,4 +39,10 @@ Baidu, BIL, research assitant     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 
 6, 1st prize, Natural Disaster Competition for Chinese students, 2022
 
+## Other Activities
+1, Chair of Student Union in EECS, PKU, 2018
+2, Group Member in Deecamp 2020 (AI for generating PRG games), 2020 
+3, Teaching Assistant for CZ 4032 Data Mining, NTU, 2021
+4, Team Leader in Deecamp 2022 (AI in accurate spine segmentation), 2022
+
 
