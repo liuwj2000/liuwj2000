@@ -23,7 +23,7 @@ USC, Melady lab, research assistant   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Baidu, BIL, research assitant     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        (2020.08-2021.07)
 
-Deecamp 2022, virtual activity, group leader ;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  (2022.06-2022.08)
+Deecamp 2022, virtual activity, group leader &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  (2022.06-2022.08)
 
 ## Publication
 1,Real-time Transportation Prediction Correction using Reconstruction Error in Deep Learning, **Shuai Liu**，Guojie Song，Wenhao Huang, 2020 TKDD
